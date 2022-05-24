@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sri-Jarvis
+- 👋 Hi, I’m Bikash Tiwari && welcome to my e-Home;
 - 👀 I’m interested in Coding && Gaming;
 - 🌱 I’m currently learning webDevelopment;
 - 💞️ I’m looking forward to become a frontEnd js developer. 
