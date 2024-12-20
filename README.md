@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bikash Tiwari && welcome to my e-Home;
 - 👀 I’m interested in Coding && Gaming;
-- 🌱 I’m currently learning webDevelopment;
-- 💞️ I’m looking + working forward to become a frontend js developer. 
+- 💞️ I’m working forward to become a skilled developer && team member. 
 - 📫 How to reach me e.bikashtiwari007@gmail.com;
 - Immediate contact +91-9078461210
 
